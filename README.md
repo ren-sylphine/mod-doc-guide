@@ -26,4 +26,5 @@ A complete overhaul of the Left 4 Dead 2 engine mechanics, written entirely in *
 ## 🎯 Purpose & Disclaimer
 
 **This project (both the custom server mod and this web interface) is 100% for personal entertainment.** It is a passion project built to create a fun, chaotic, and deeply customized gaming experience for my friends. It also serves as a fun sandbox for me to practice scripting, performance optimization, and UI/UX design outside of my normal professional work. 
+
 **Visual Assets Disclaimer:** Please note that the **custom weapon skins and character models** showcased in the animated `.webp` previews belong to various talented creators on the Steam Workshop. They are used here purely for visual demonstration purposes to show the mod in action and are not my property.
